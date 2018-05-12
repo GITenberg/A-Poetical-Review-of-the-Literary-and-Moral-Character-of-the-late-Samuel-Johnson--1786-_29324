@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '33845'
     url: http://www.gutenberg.org/2009/agents/33845
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29324#A-Poetical-Review-of-the-Literary-and-Moral-Character-of-the-late-Samuel-Johnson--1786-
 gutenberg_issued: '2009-07-05'
 gutenberg_type: Text
 identifiers:
